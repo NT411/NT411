@@ -22,7 +22,7 @@
 - Working as a: Slot Game Developer
 - Working daily with: `TypeScript` `Node.js` `GSAP` `Nginx` `Linux` `MySQL` `Bash` `npm` `PM2`
 - Studying for: CCNA/CompTIA
-
+- Contact email@nikalastsekov.com
 ## Featured Projects
 
 ### [dwm-dotfiles](https://github.com/NT411/dwm-dotfiles)
